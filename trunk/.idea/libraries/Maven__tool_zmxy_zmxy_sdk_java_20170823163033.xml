@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: tool.zmxy:zmxy-sdk-java:20170823163033">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tool/zmxy/zmxy-sdk-java/20170823163033/zmxy-sdk-java-20170823163033.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tool/zmxy/zmxy-sdk-java/20170823163033/zmxy-sdk-java-20170823163033-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tool/zmxy/zmxy-sdk-java/20170823163033/zmxy-sdk-java-20170823163033-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tudou-common/tudou-common.iml" filepath="$PROJECT_DIR$/tudou-common/tudou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tudou-domain/tudou-domain.iml" filepath="$PROJECT_DIR$/tudou-domain/tudou-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tudou-ms/tudou-ms.iml" filepath="$PROJECT_DIR$/tudou-ms/tudou-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tudou-persistence/tudou-persistence.iml" filepath="$PROJECT_DIR$/tudou-persistence/tudou-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tudou-service/tudou-service.iml" filepath="$PROJECT_DIR$/tudou-service/tudou-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tudouMs-cash.iml" filepath="$PROJECT_DIR$/tudouMs-cash.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,126 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tudou-ms:war exploded">
+    <output-path>$PROJECT_DIR$/tudou-ms/target/tudou-ms-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tudou-ms" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="tudou-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tudou-service" />
+          </element>
+          <element id="archive" name="tudou-persistence-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tudou-persistence" />
+          </element>
+          <element id="archive" name="tudou-domain-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tudou-domain" />
+          </element>
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.43" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.1" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.4" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+          <element id="library" level="project" name="Maven: com.aliyun.openservices:ons-client:1.6.0.Final" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.6" />
+          <element id="library" level="project" name="Maven: com.gexin.platform:gexin-rp-sdk-http:4.0.1.9" />
+          <element id="library" level="project" name="Maven: com.gexin.platform:gexin-rp-sdk-template:4.0.0.8" />
+          <element id="library" level="project" name="Maven: com.gexin.platform:gexin-rp-sdk-base:4.0.0.14" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.5.0" />
+          <element id="library" level="project" name="Maven: com.gexin.platform:gexin-rp-fastjson:1.0.0.0" />
+          <element id="library" level="project" name="Maven: tool.zmxy:zmxy-sdk-java:20170823163033" />
+          <element id="library" level="project" name="Maven: com.rongdu:esign-tgtext:1.0.16" />
+          <element id="library" level="project" name="Maven: com.rongdu:esign-utils:1.0.0" />
+          <element id="library" level="project" name="Maven: com.erongdu.credit:apidemo:1.0.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.5.3" />
+          <element id="library" level="project" name="Maven: cn.freesoft:CommonBaseUtils:2.6.10-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.21" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Maven: cglib:cglib:3.0" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:4.0" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-util:4.0" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-tree:4.0" />
+          <element id="library" level="project" name="Maven: com.hwc.common:hwc-aliyun-redis:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-keyvalue:1.1.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-redis:1.7.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.2.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.2.8.RELEASE" />
+          <element id="library" level="project" name="Maven: com.hwc.common:hwc-aliyun-oss:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.aliyun.oss:aliyun-sdk-oss:2.5.0" />
+          <element id="library" level="project" name="Maven: org.jdom:jdom:1.1" />
+          <element id="library" level="project" name="Maven: net.sf.json-lib:json-lib:jdk15:2.4" />
+          <element id="library" level="project" name="Maven: net.sf.ezmorph:ezmorph:1.0.6" />
+          <element id="library" level="project" name="Maven: com.hwc.common:hwc-aliyun-ons:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.10" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jms:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-pool:5.15.2" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-jms-pool:5.15.2" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-client:5.15.2" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-core:5.7.0" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:kahadb:5.7.0" />
+          <element id="library" level="project" name="Maven: org.apache.activemq.protobuf:activemq-protobuf:1.1" />
+          <element id="library" level="project" name="Maven: org.fusesource.mqtt-client:mqtt-client:1.3" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtdispatch:hawtdispatch-transport:1.11" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtdispatch:hawtdispatch:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" />
+          <element id="library" level="project" name="Maven: commons-net:commons-net:3.1" />
+          <element id="library" level="project" name="Maven: org.jasypt:jasypt:1.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.xbean:xbean-spring:4.2" />
+          <element id="library" level="project" name="Maven: cn.fraudmetrix:riskservice-client:1.4.2" />
+          <element id="library" level="project" name="Maven: jdom:jdom:1.0" />
+          <element id="archive" name="tudou-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="tudou-common" />
+          </element>
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.10-FINAL" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:3.8" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:3.8" />
+          <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.9" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.9" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.9" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.35" />
+          <element id="library" level="project" name="Maven: junit:junit:4.12" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.3" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
+          <element id="library" level="project" name="Maven: tool:common-util:1.0.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tudou-ms/target/tudou-ms-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tudou-ms/web/Web" />
+    </root>
+  </artifact>
+</component>
