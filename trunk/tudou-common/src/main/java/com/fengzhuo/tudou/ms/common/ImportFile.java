@@ -79,7 +79,6 @@ public class ImportFile {
         }
     }
     public static void main(String[] arg){
-
         Person person = new Person();
         getDataFromExcel2("E:\\sss.xlsx", person);
     }
